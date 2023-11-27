@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Ashley's Personal Site</title>
+        <link rel="stylesheet" href="css/styles.css">
+    </head>
+<body>
+    <table cellspacing="20">
+        <tr>
+            <td><img src="ashley.jpg" alt="Ashley English"</img></td>
+            <td><h1>Ashley English</h1>
+                <p><em>Managing Director, Client Success at <strong>Neapolitan Labs</strong></em></p>
+                <p>Description, example text.</p>
+                </td>
+        </tr>
+    </table>
+    <hr>
+     <h2>Education</h2>
+        <ul>
+            <li><a href="https://www.calpoly.edu/" target="blank">California Polytechnic State University</a></li>
+            <li>Santiago High School</li>
+        </ul>
+        <hr>
+    <h2>Work Experience</h2>
+        <table>
+            <tr>
+                <th>Dates</th>
+                <th>Work</th></tr>
+                <tbody><td>2020-2023</td>
+                <td>Neapolitan Labs</td>
+            </tr>
+            <tr><td>2018-2019</td><td>Council Bluffs Convention & Visitors Bureau</td></tr>
+        </tbody></table>
+<hr>
+    <h2>Skills</h2>
+    <table cellspacing="20">
+        <tbody><tr>    <td>
+                <table>
+                <tr>
+                    <td>Writing</td>
+                    <td>🦭🦭🦭🦭</td>
+                </tr>
+            <tr>
+                <td>Proofreading</td>
+                <td>🦦🦦🦦</td></tr></table></td>
+            <td><table>
+                <tr>
+                    <td>Social Media</td>
+                    <td>🐇🐇🐇🐇</td>
+                </tr>
+                <tr><td>Graphic Design</td>
+                    <td>🦭🦭🦭</td></tr></table>
+            </table></td>
+        </tr>
+        </tbody> 
+    </table>
+<hr>
+    <h2><a href=hobbies.html>My Hobbies</a></h2>
+    <button type="button"><a href="contact.html">Contact</a></button>
+    
+</body>
+</html>
